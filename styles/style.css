@@ -1,0 +1,265 @@
+.open-sans-normal {
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+    "wdth" 100;
+  }
+  
+
+  .header{
+    background-color: #C6E4D6;
+    max-width: 1200px;
+    height: 560px; 
+    padding: 50px;
+    border-radius: 24px;
+    margin: auto;
+  }
+  .banner{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+  }
+
+  .div1-section1-style{
+    margin-bottom: 16px;
+    color: #0E0E0E;
+    opacity: 50%;    
+  }
+
+  .div1-section1-style{
+    color: #0E0E0E;
+  }
+  .div1-section2-style{
+   
+    font-weight: 600;
+  }
+  .div1-section3-style{
+    width: 270px;
+   
+    background-color: #006A50;
+    padding: 34px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+    border-style: none;   
+  }
+
+
+/* main is start here */
+
+.main-div1{
+  border: 5px;
+
+  padding: 30px;
+  border-radius: 5px;
+  /* box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06); */
+}
+
+.card-container{
+  max-width: 1280px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  gap: 24px;
+}
+
+.card-style{
+  padding: 50px;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+.main-div-heading{
+  margin-top: 76px;
+  margin-left: 400px;
+  margin-bottom: 5px;
+}
+
+.card-container2{
+  max-width: 1280px;
+  margin: auto;
+  margin-top: 20px;
+  display: flex;
+  gap: 24px;
+}
+
+.card-style1{
+ background-color: rgb(231, 160, 160);
+ padding: 50px;
+  border-radius: 5px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+
+}
+.card-style2{
+  background-color: rgb(143, 143, 189);
+  padding: 50px;
+   border-radius: 5px;
+   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ 
+ }
+ .card-style3{
+  background-color: rgb(120, 66, 120);
+  padding: 50px;
+   border-radius: 5px;
+   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ 
+ }
+
+ .button1{
+  padding: 20px;
+  border-radius: 8px;
+  width: 122px;
+
+  background-color: #a0b8e1;
+ }
+ .button2{
+  border-radius: 8px;
+  padding: 20px;
+  width: 122px;
+
+  background-color: #c6f0dd;
+ }
+ .button3{
+  border-radius: 8px;
+  padding: 20px;
+  width: 122px;
+
+  background-color: #b573a3;
+ }
+
+
+ .div5-p-dr-yunus{
+      width: 1280px;
+      box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+      margin: auto;
+      margin-top: 20px;
+      background-image: url('/assets/quote-bg.png'),url('/assets/quote-bg.png');
+      background-repeat: no-repeat;
+      background-position: top left;
+      height: 256px;
+      padding: 10px;
+
+
+ }
+
+ .satelite{
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin: auto;
+
+ }
+
+ .satalight-news-header{
+  margin-top: 76px;
+  margin-left: 400px;
+  margin-bottom: 5px;
+  padding: 20px;
+ }
+
+ .sat-img{
+  border-radius: 24px;
+
+ }
+
+ .sat-button{
+  width: 139px;
+  height: 48px;
+  background-color: #006A50;
+  border-radius: 8px;
+  border-style: none;
+
+ }
+
+ .satalight2{
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 20px;
+
+
+ }
+
+ .donate-button-container{
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  width: 1280px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+
+  margin-top: 50px;
+  padding: 20px;
+
+
+ }
+
+ .donate-button{
+  width: 240px;
+  height: 128px;
+  padding: 10px;
+  border-radius: 16px;
+  margin-bottom: 20px;
+
+ }
+
+ .donate-title{
+
+ 
+  margin-top: 76px;
+  margin-left: 400px;
+  margin-bottom: 20px;
+  padding: 20px;
+
+ }
+
+ .donate-input{
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+  margin-top: 20px;
+  width: 1032px;
+  height: 64px;
+  padding: 30px;
+  text-align: center;
+  margin-left: 100px;
+  border-style: none;
+  font-weight: bold;
+ }
+
+ .done{
+  margin-top: 50px;
+  margin-left: 400px;
+  margin-bottom: 5px;
+  padding: 20px;
+  margin-left:  1000px;
+  
+  border-radius: 8px;
+  width: 122px;
+
+  background-color: rgb(7, 105, 7);
+
+ 
+
+ }
+
+ .footer{
+  text-align: center;
+ }
+ hr{
+  width: 1000px;
+ }
+
+ .footer-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+  color: white;
+ }
